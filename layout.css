@@ -1,0 +1,23 @@
+.header{
+    margin-bottom: 10px;
+    min-height: 100px;
+    background-color: silver;
+    text-align: center;
+    font-size: large;
+}
+
+.sidebarContent{
+    margin-bottom: 10px;
+    min-height: 150px;
+    background-color:silver;
+    text-align: center;
+    font-size: large;
+}
+
+.customDiv{
+    margin-bottom: 3px;
+    min-height: max-content;
+    background-color: silver;
+    text-align: center;
+    font-size: large;
+}
